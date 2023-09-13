@@ -10,8 +10,9 @@ A base-building exploration & survival game, combining multiple complex simulati
 
 - Multiple element and chemistry simulations with more than 40 different materials
 - Randomly generated events triggered by player exploration
-- Pawns express themselves and their personalities with diary entries
 - Every world and pawn is procedurally generated
+- Pawns have different personality types that impact their actions and relationships with each other
+- Diary entries allow the player to get to know their pawns
 - Regular content updates
 - For Windows and Mac
 
